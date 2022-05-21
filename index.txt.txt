@@ -1,0 +1,11 @@
+git init – Initialize a blank repository.
+git commit – save changes to the local repository
+git add – add files to staging
+git status – display the staging in working directory
+git push – push content from local to remoter repository
+git config – name and email
+git config –global user.name “name”
+git config –global user.email “email”
+git branch feature
+git checkout feature
+git branch -d feature (Delete the branch)
